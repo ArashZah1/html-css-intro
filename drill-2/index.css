@@ -1,0 +1,60 @@
+.TopContainer {
+    background-color: white;
+    border: black solid 5px;
+    height: 200px;
+}
+.Rectangle-One {
+    background-color: blueviolet;
+    height: 120px;
+    width: 40px;
+    margin-top: 70px;
+    margin-left: 20px;
+}
+.Rectangle-Two {
+    background-color: green;
+    height: 180px;
+    width: 350px;
+    margin-top: -175px;
+    margin-left: 100px;
+}
+.circle-One {
+    background-color:lightblue ;
+    height: 180px;
+    width: 180px;
+    margin-top: -180px;
+    margin-left: 60%;
+    border-radius: 180px;
+}
+.second-container {
+    background-color: white;
+    border: black dotted 5px;
+    height: 200px; 
+    margin-top: 4%;
+}
+.Rectangle-three {
+    background-color: rgb(243, 243, 221);
+    height: 75%;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px ;
+    box-shadow: 0 5px 5px ;
+}
+.LastContainer {
+    background-color: white;
+    border: 1px solid #ccc ;
+    width: 70% ;
+    padding: 110px;
+    box-sizing: border-box ;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    box-shadow: 2px 1px 2px ;
+}
+.LastContainer h1 {
+    text-align: center;
+    width: 100% ;
+    letter-spacing: 5px;
+    color:rgb(0, 0, 134);
+    font-family:'Times New Roman', Times, serif ;
+}
